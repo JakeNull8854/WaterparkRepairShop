@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "id": "arcade-board",
+      "name": "Arcade cabinet electronics",
+      "status": "design-only"
+    },
+    {
+      "id": "speaker",
+      "name": "Waterpark speaker",
+      "status": "design-only"
+    },
+    {
+      "id": "payment-terminal",
+      "name": "Payment terminal",
+      "status": "design-only"
+    }
+  ]
+}
