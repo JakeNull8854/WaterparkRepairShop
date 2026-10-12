@@ -1,0 +1,9 @@
+{
+  "primaryGame": "Waterpark Simulator",
+  "companionGame": "ReStory: Chill Electronics Repairs",
+  "mode": "single-player",
+  "hostIntegration": "unimplemented",
+  "companionIntegration": "unimplemented",
+  "runtimeVerified": false,
+  "redistributeGameAssets": false
+}
