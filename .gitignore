@@ -1,0 +1,16 @@
+# Never commit original game files, extracted assets, builds, saves, or credentials
+.env
+.env.*
+*.dll
+*.exe
+*.pak
+*.asset
+*.bundle
+*.log
+*.zip
+build/
+dist/
+releases/
+game-files/
+extracted/
+__pycache__/
