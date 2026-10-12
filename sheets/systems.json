@@ -1,0 +1,18 @@
+{
+  "workshop": "dedicated",
+  "loop": [
+    "receive broken item",
+    "diagnose",
+    "repair",
+    "test",
+    "return",
+    "earn"
+  ],
+  "progression": [
+    "basic tools",
+    "better tools",
+    "additional workbenches",
+    "complex repairs"
+  ],
+  "implementation": "design-only"
+}
